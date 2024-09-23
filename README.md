@@ -1,6 +1,7 @@
 # RPS-console-game
-Rock/Paper/Scissors small project
-Simple way of making my first program with conditional statements.
+# Rock/Paper/Scissors small project
+
+Simple way of making first program with conditional statements.
 
 ## DEMO
 Click below on the image to play the game on your browser via Replit.
